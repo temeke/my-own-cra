@@ -1,0 +1,26 @@
+{
+  "name": "my-own-cra",
+  "version": "1.0.0",
+  "description": "my own cra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temeke/my-own-cra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temeke/my-own-cra/issues"
+  },
+  "homepage": "https://github.com/temeke/my-own-cra#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shelljs": "^0.8.4"
+  },
+  "bin": {
+    "create-react-redux-router-app": "index.js"
+  }
+}
